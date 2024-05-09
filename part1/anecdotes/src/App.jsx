@@ -24,6 +24,9 @@ const App = () => {
     console.log(random)
     setSelected(random)
   }
+  
+ 
+
 
   
   const handleVote = () => {
